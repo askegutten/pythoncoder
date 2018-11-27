@@ -85,3 +85,5 @@ else:
 	print("the name",name,"and the name",name2,"are not the same name")
 
 # oppgave 11
+a = int(input())
+print(a ,"=" ,"er gay")
